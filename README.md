@@ -6,7 +6,7 @@
 
 ·NapCat（https://github.com/NapNeko/NapCatQQ ）
 
-通过文本操作需要一定的Linux Terminal基础，在此建议跟着~~<a href="https://space.bilibili.com/1143250330" style="color: blue; text-decoration: none; font-weight: bold;">教学视频</a>~~操作，虽然我还没发（
+通过文本操作需要一定的Linux Terminal基础，在此建议~~跟着<a href="https://space.bilibili.com/1143250330" style="color: blue; text-decoration: none; font-weight: bold;">教学视频</a>操作~~，虽然我还没发（
 
 **如何在Linux Ubuntu打开安装脚本**
 
