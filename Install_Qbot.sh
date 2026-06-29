@@ -5,7 +5,6 @@ curl -L -o uv-x86_64-unknown-linux-gnu.tar.gz https://proxy.gitwarp.top/https://
 tar -xzf uv-x86_64-unknown-linux-gnu.tar.gz
 mv /uv-x86_64-unknown-linux-gnu/uv /usr/local/bin/
 chmod +x /usr/local/bin/uv
-cd ..
 curl -LsSf https://docs.astrbot.app/install.sh | bash
 export PATH="/root/.local/bin:$PATH"
 echo 'export PATH="/root/.local/bin:$PATH"' >> /root/.bashrc
