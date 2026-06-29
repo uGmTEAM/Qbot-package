@@ -6,9 +6,7 @@
 
 ·NapCat（https://github.com/NapNeko/NapCatQQ ）
 
-通过文本操作需要一定的Linux Terminal基础
-
-
+通过文本操作需要一定的Linux Terminal基础，在此建议跟着~~<a href="https://space.bilibili.com/1143250330" style="color: blue; text-decoration: none; font-weight: bold;">教学视频</a>~~操作，虽然我还没发（
 
 **如何在Linux Ubuntu打开安装脚本**
 
@@ -16,7 +14,9 @@
 
 <a href="https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso" style="color: blue; text-decoration: none; font-weight: bold;">下载Ubuntu镜像</a>
 
+当然，也可以用VMWare虚拟机代替（不建议）
 
+然后
 
 打开Terminal
 
