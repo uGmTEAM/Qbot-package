@@ -8,6 +8,12 @@
 
 通过文本操作需要一定的Linux Terminal基础，在此建议~~跟着<a href="https://space.bilibili.com/1143250330" style="color: blue; text-decoration: none; font-weight: bold;">教学视频</a>操作~~，虽然我还没发（
 
+## **准备工作**
+
+你需要一台电脑或者服务器、2-4个小时、一双勤劳的手、一个闲置的QQ、一个可以用的ai的api（推荐 <a href="https://platform.deepseek.com/" style="color: blue; text-decoration: none; font-weight: bold;">DeepSeek</a> ）
+
+如果你的电脑不可以保持长期开启或者没有一台趁手的服务器，推荐使用 <a href="https://www.rainyun.com/uGmHELP_" style="color: blue; text-decoration: none; font-weight: bold;">雨云RainYun</a> 的云服务器~~这里是<a href="https://space.bilibili.com/1143250330" style="color: blue; text-decoration: none; font-weight: bold;">雨云云服务器配置教程</a>。~~ 还没做的说（
+
 **如何在Linux Ubuntu打开安装脚本**
 
 首先，你需要一个装有Ubuntu系统的电脑
