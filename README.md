@@ -14,7 +14,9 @@
 
 首先，你需要一个装有Ubuntu系统的电脑
 
-<a href="https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso" style="color: blue; text-decoration: none; font-weight: bold;">下载镜像</a>
+<a href="https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso" style="color: blue; text-decoration: none; font-weight: bold;">下载Ubuntu镜像</a>
+
+
 
 打开Terminal
 
