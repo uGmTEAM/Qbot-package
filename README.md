@@ -1,12 +1,20 @@
 **我不会写也不想写Markdown，在这里就长话短说了**
 
-这是一个Qbot（QQAI聊天机器人）的安装脚本，旨在帮助~~我的粉丝群里的傻子们~~不会用linux系统的人快速安装
+这是一个Qbot（QQAI聊天机器人）的安装脚本，旨在帮助~~我的粉丝群里的傻子们~~不是很会用linux系统的人快速安装
 
-·AstrBot（https://github.com/AstrBotDevs/AstrBot）
+·AstrBot（https://github.com/AstrBotDevs/AstrBot ）
 
-·NapCat（https://github.com/NapNeko/NapCatQQ）
+·NapCat（https://github.com/NapNeko/NapCatQQ ）
+
+通过文本操作需要一定的Linux Terminal基础
+
+
 
 **如何在Linux Ubuntu打开安装脚本**
+
+首先，你需要一个装有Ubuntu系统的电脑
+
+<a href="https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso" style="color: blue; text-decoration: none; font-weight: bold;">下载镜像</a>
 
 打开Terminal
 
