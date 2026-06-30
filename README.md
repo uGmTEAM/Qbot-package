@@ -27,10 +27,8 @@
 打开Terminal
 
 输入
-    <div style="position: relative; background: #f5f5f5; border-radius: 6px; padding: 12px; margin: 10px 0;">
-      <pre id="codeBlock" style="margin: 0; overflow-x: auto; font-family: monospace;">wget https://raw.githubusercontent.com/uGmTEAM/Qbot-package/refs/heads/main/Install_Qbot.sh</pre>
-    </div>
-    
+
+    wget https://raw.githubusercontent.com/uGmTEAM/Qbot-package/refs/heads/main/Install_Qbot.sh
     sudo bash ./Install_Qbot.sh</pre>
 
 然后输入你的Linux密码
