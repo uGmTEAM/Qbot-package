@@ -31,18 +31,11 @@
       <pre id="codeBlock" style="margin: 0; overflow-x: auto; font-family: monospace;">wget https://raw.githubusercontent.com/uGmTEAM/Qbot-package/refs/heads/main/Install_Qbot.sh</pre>
     </div>
     
-等待下载之后
-
-输入
-    <div style="position: relative; background: #f5f5f5; border-radius: 6px; padding: 12px; margin: 10px 0;">
-      <pre id="codeBlock" style="margin: 0; overflow-x: auto; font-family: monospace;">sudo bash ./Install_Qbot.sh</pre>
-    </div>
+    sudo bash ./Install_Qbot.sh</pre>
 
 然后输入你的Linux密码
 
-等待下载之后
-    
-echo 'bot安装已完成，请执行 “astrbot run”和“./launcher”并在程序界面打开QQ以运行，脚本整合：umMAKER，Bilibili：space.bilibili.com/1143250330。感谢使用！'
+等待下载之后弹出提示文本。
     
 就安装好啦！
 
