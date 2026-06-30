@@ -1,6 +1,8 @@
 #!/bin/bash
 apt update -y
+apt install ubuntu-desktop -y
 apt install curl pipx python3-pip -y
+apt install dbus-x11 -y
 curl -L -o uv-x86_64-unknown-linux-gnu.tar.gz https://proxy.gitwarp.top/https://github.com/astral-sh/uv/releases/download/0.11.25/uv-x86_64-unknown-linux-gnu.tar.gz
 tar -xzf uv-x86_64-unknown-linux-gnu.tar.gz
 mv uv-x86_64-unknown-linux-gnu/uv /usr/local/bin/
