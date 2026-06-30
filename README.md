@@ -29,7 +29,7 @@
 输入
 
     wget https://raw.githubusercontent.com/uGmTEAM/Qbot-package/refs/heads/main/Install_Qbot.sh
-    sudo bash ./Install_Qbot.sh</pre>
+    sudo bash ./Install_Qbot.sh
 
 然后输入你的Linux密码
 
