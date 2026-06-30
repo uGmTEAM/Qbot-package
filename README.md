@@ -34,15 +34,36 @@
 然后输入你的Linux密码
 
 等待下载之后弹出提示文本。
+
+如果下载过程中报错/卡住/不在中国下载，考虑使用没有代理的版本
+
+    wget https://raw.githubusercontent.com/uGmTEAM/Qbot-package/refs/heads/main/Install_QbotNoProxy.sh
+    sudo bash ./Install_Qbot_NoProxy.sh
     
 就安装好啦！
 
 ### **然后该干嘛**
 
-~~我不知道~~别急我还没写完，以后会发教程视频和一键部署脚本的。
+既然已经安装好了所需要的东西，那么可以直接
 
-## **关注我们**
+    sudo bash ./Run_Qbot.sh
 
+正常情况下，将会直接启动并监听端口6185（AstrBot）和6099（NapCat），所以可以直接访问<a href="http://127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>和<a href="http://127.0.0.1:6099" style="color: blue; text-decoration: none; font-weight: bold;">NapCat本地控制台</a> 
+
+第一次打开时需要初始化，需要等待一会
+
+然后为了登录到你的AstrBot和NapCat，你需要
+
+**AstrBot**：默认用户名为 astrbot，初始密码会在首次启动时自动生成并显示在控制台中。访问<a href="http://127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>并将账号密码填入，然后登录。
+
+**NapCat**：在NapCat启动日志中看到形如 [info] [NapCat] [WebUi] WebUi User Panel Url: http://127.0.0.1:6099/webui?token=xxxxx 的 token 信息，复制代替xxxxx的字符并粘贴至<a href="http://127.0.0.1:6099" style="color: blue; text-decoration: none; font-weight: bold;">NapCat本地控制台</a> 的登录框中
+
+## **联系我们/交流/反馈问题**
+<!--
 <a href="https://space.bilibili.com/1143250330" target="_blank">
     <img src="https://www.bilibili.com/favicon.ico" alt="Bilibili" style="width: 32px; height: 32px;">
 </a>
+-->
+<a href="https://space.bilibili.com/1143250330" style="color: white; text-decoration: none; font-weight: bold;">Bilibili</a>
+
+<a href="https://qm.qq.com/q/2HuArULfbq" style="color: white; text-decoration: none; font-weight: bold;">QQ群</a>
