@@ -1,10 +1,14 @@
 **我不会写也不想写Markdown，在这里就长话短说了**
 
-这是一个Qbot（QQAI聊天机器人）的安装脚本，旨在帮助~~我的粉丝群里的傻子们~~不是很会用linux系统的人快速安装
+这是一个Qbot（QQAI聊天机器人）的安装脚本，包含了以下程序，旨在帮助~~我的粉丝群里的傻子们~~不是很会用linux系统的人快速安装并运行Qbot。
 
 ·AstrBot（https://github.com/AstrBotDevs/AstrBot ）
 
 ·NapCat（https://github.com/NapNeko/NapCatQQ ）
+
+·Ollama（https://github.com/ollama/ollama ）
+
+·UV（https://github.com/astral-sh/uv ）
 
 通过文本操作需要一定的Linux Terminal基础，在此建议~~跟着<a href="https://space.bilibili.com/1143250330" style="color: blue; text-decoration: none; font-weight: bold;">教学视频</a>操作~~，虽然我还没发（
 
@@ -46,7 +50,8 @@
 
 既然已经安装好了所需要的东西，那么可以直接
 
-    sudo bash ./Run_Qbot.sh
+    sudo su
+    bash ./Run_Qbot.sh
 
 正常情况下，将会直接启动并监听端口6185（AstrBot）和6099（NapCat），所以可以直接访问<a href="http://127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>和<a href="http://127.0.0.1:6099" style="color: blue; text-decoration: none; font-weight: bold;">NapCat本地控制台</a> 
 
