@@ -1,8 +1,6 @@
 #!/bin/bash
 
-gnome-terminal -- bash -c "./launcher.sh; exec bash"
-gnome-terminal -- bash -c "astrbot run; exec bash"
-gnome-terminal -- bash -c "ollama serve; exec bash"
+gnome-terminal -- bash -c "./launcher.sh"
+gnome-terminal -- bash -c "astrbot run"
+gnome-terminal -- bash -c "ollama serve"
 exit
-cd /opt/QQ
-./qq
