@@ -4,8 +4,11 @@ apt install ubuntu-desktop -y
 apt install curl pipx python3-pip -y
 apt install dbus-x11 -y
 apt install zstd -y
-wget https://github.com/ollama/ollama/releases/download/v0.30.12-rc0/ollama-linux-amd64.tar.zst
-wget https://raw.githubusercontent.com/uGmTEAM/Qbot-package/refs/heads/main/Run_Qbot.sh
+apt install libgtk2.0-0 -y
+wget -nc https://qqdl.gtimg.cn/qqfile/QQNT/9.9.31/release/00e6a3e7/QQ_3.2.29_260528_amd64_01.deb
+wget -nc https://github.com/ollama/ollama/releases/download/v0.30.12-rc0/ollama-linux-amd64.tar.zst
+wget -nc https://raw.githubusercontent.com/uGmTEAM/Qbot-package/refs/heads/main/Run_Qbot.sh
+dpkg -i QQ_3.2.29_260528_amd64_01.deb
 tar -C /usr -xvf ollama-linux-amd64.tar.zst
 ollama pull nomic-embed-text
 curl -L -o uv-x86_64-unknown-linux-gnu.tar.gz https://github.com/astral-sh/uv/releases/download/0.11.25/uv-x86_64-unknown-linux-gnu.tar.gz
