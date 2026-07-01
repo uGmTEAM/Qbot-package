@@ -20,4 +20,4 @@ export PATH="/root/.local/bin:$PATH"
 echo 'export PATH="/root/.local/bin:$PATH"' >> /root/.bashrc
 astrbot init -y
 curl -o napcat.sh https://raw.githubusercontent.com/NapNeko/napcat-linux-installer/refs/heads/main/install.sh && bash napcat.sh
-echo 'bot安装已完成，请分别在不同的Terminal中以root权限（先输入“sudo su”然后回车）执行 "astrbot run" 和 "./launcher" 并在程序界面打开QQ以运行，脚本整合：umMAKER，Bilibili：space.bilibili.com/1143250330。感谢使用！'
+echo 'bot安装已完成，请在的Terminal中以root权限（先输入“sudo su”然后回车）执行 "bash ./Run_Qbot.sh" ，脚本整合：umMAKER，Bilibili：space.bilibili.com/1143250330。感谢使用！'
