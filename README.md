@@ -53,7 +53,9 @@
     sudo su
     bash ./Run_Qbot.sh
 
-正常情况下，将会直接启动并监听端口6185（AstrBot）和6099（NapCat），所以可以直接访问<a href="http://127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>和<a href="http://127.0.0.1:6099" style="color: blue; text-decoration: none; font-weight: bold;">NapCat本地控制台</a> 
+如果你是本地部署：正常情况下，将会直接启动并监听端口6185（AstrBot）和6099（NapCat），所以可以直接访问<a href="http://127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>和<a href="http://127.0.0.1:6099" style="color: blue; text-decoration: none; font-weight: bold;">NapCat本地控制台</a> 
+
+如果你是云部署，则请访问ip:port
 
 第一次打开时需要初始化，需要等待一会
 
