@@ -16,7 +16,7 @@
 
 你需要一台电脑或者服务器、2-4个小时、一双勤劳的手、一个闲置的QQ、一个可以用的ai的api（推荐 <a href="https://platform.deepseek.com/" style="color: blue; text-decoration: none; font-weight: bold;">DeepSeek</a> ）
 
-如果你的电脑不可以保持长期开启或者没有一台趁手的服务器，推荐使用 <a href="https://www.rainyun.com/uGmHELP_" style="color: blue; text-decoration: none; font-weight: bold;">雨云RainYun</a> 的云服务器。~~这里是<a href="https://space.bilibili.com/1143250330" style="color: blue; text-decoration: none; font-weight: bold;">雨云云服务器配置教程</a>。~~ 还没做的说（
+如果你的电脑不可以保持长期开启或者没有一台趁手的服务器，推荐使用云服务器，<a href="https://github.com/uGmTEAM/Qbot-package/" style="color: blue; text-decoration: none; font-weight: bold;">广告位不招租</a>。
 
 ## **如何在Linux Ubuntu打开安装脚本**
 
@@ -24,7 +24,7 @@
 
 <a href="https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso" style="color: blue; text-decoration: none; font-weight: bold;">下载Ubuntu镜像</a>
 
-当然，也可以用VMWare虚拟机代替（不建议）
+当然，也可以用VMWare虚拟机代替（不建议），<a href="" style="color: blue; text-decoration: none; font-weight: bold;">VMWare配置教程</a>。
 
 然后
 
