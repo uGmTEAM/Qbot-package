@@ -12,15 +12,15 @@
 
 通过文本操作需要一定的Linux Terminal基础，在此建议~~跟着<a href="https://space.bilibili.com/1143250330" style="color: blue; text-decoration: none; font-weight: bold;">教学视频</a>操作~~，虽然我还没发（
 
-## **准备工作**
+# **准备工作**
 
 你需要一台电脑或者服务器、2-4个小时、一双勤劳的手、一个闲置的QQ、一个可以用的ai的api（推荐 <a href="https://platform.deepseek.com/" style="color: blue; text-decoration: none; font-weight: bold;">DeepSeek</a> ）
 
 如果你的电脑不可以保持长期开启或者没有一台趁手的服务器，推荐使用云服务器，<a href="https://github.com/uGmTEAM/Qbot-package/" style="color: blue; text-decoration: none; font-weight: bold;">广告位不招租</a>。
 
-## **如何在Linux Ubuntu打开安装脚本**
+# **如何在Linux Ubuntu打开安装脚本**
 
-### 首先，你需要一个装有Ubuntu系统的电脑
+## 首先，你需要一个装有Ubuntu系统的电脑
 
 <a href="https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso" style="color: blue; text-decoration: none; font-weight: bold;">下载Ubuntu镜像</a>
 
@@ -46,7 +46,7 @@
     
 就安装好啦！
 
-### **然后该干嘛**
+# **然后该干嘛**
 
 既然已经安装好了所需要的东西，那么可以直接
 
