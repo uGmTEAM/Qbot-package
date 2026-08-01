@@ -8,7 +8,6 @@ apt install libgtk2.0-0 -y
 wget -nc https://qqdl.gtimg.cn/qqfile/QQNT/9.9.31/release/00e6a3e7/QQ_3.2.29_260528_amd64_01.deb
 wget -nc https://proxy.gitwarp.top/https://github.com/ollama/ollama/releases/download/v0.30.12-rc0/ollama-linux-amd64.tar.zst
 wget -nc https://raw.githubusercontent.com/uGmTEAM/Qbot-package/refs/heads/main/Run_Qbot.sh
-dpkg -i QQ_3.2.29_260528_amd64_01.deb
 tar -C /usr -xvf ollama-linux-amd64.tar.zst
 ollama pull nomic-embed-text
 curl -L -o uv-x86_64-unknown-linux-gnu.tar.gz https://proxy.gitwarp.top/https://github.com/astral-sh/uv/releases/download/0.11.25/uv-x86_64-unknown-linux-gnu.tar.gz
@@ -18,6 +17,8 @@ chmod +x /usr/local/bin/uv
 curl -LsSf https://docs.astrbot.app/install.sh | bash
 export PATH="/root/.local/bin:$PATH"
 echo 'export PATH="/root/.local/bin:$PATH"' >> /root/.bashrc
-astrbot init -y
 curl -o napcat.sh https://raw.githubusercontent.com/NapNeko/napcat-linux-installer/refs/heads/main/install.sh && bash napcat.sh
+gnome-terminal -- bash -c "gtk-launch qq" 
+echo '由于技术原因，最后一步请手动输入y'
+astrbot init
 echo 'bot安装已完成，请在的Terminal中以root权限（先输入“sudo su”然后回车）执行 "bash ./Run_Qbot.sh" ，脚本整合：umMAKER，Bilibili：space.bilibili.com/1143250330。感谢使用！'
