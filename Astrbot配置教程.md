@@ -43,13 +43,13 @@
 
 点击保存，有需要的话可以配置反向 Websocket Token以保证安全性
 
-然后前往<a href="" style="color: blue; text-decoration: none; font-weight: bold;">NapCat配置教程</a>
+然后前往<a href="Napcat配置教程.md" style="color: blue; text-decoration: none; font-weight: bold;">NapCat配置教程</a>
 
 ### 配置人格
 
 在主页面的左侧列表中点击 “人格设定” ，点击 “+ 创建人格” 
 
-填入人格ID及系统提示词，<a href="" style="color: blue; text-decoration: none; font-weight: bold;">这里</a>提供了部分《蔚蓝档案》学生的文本提示词
+填入人格ID及系统提示词，<a href="https://github.com/uGmTEAM/Blue-Archive-Chinese-Text-AI-prompt" style="color: blue; text-decoration: none; font-weight: bold;">这里</a>提供了部分《蔚蓝档案》学生的文本提示词
 
 点击保存，有需要可以更改其他项
 
