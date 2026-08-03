@@ -65,7 +65,7 @@
 
 **NapCat**：在NapCat启动日志中看到形如 [info] [NapCat] [WebUi] WebUi User Panel Url: http://127.0.0.1:6099/webui?token=xxxxx 的 token 信息，复制代替xxxxx的字符并粘贴至<a href="http://127.0.0.1:6099" style="color: blue; text-decoration: none; font-weight: bold;">NapCat本地控制台</a> 的登录框中
 
-<a href="" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot配置教程</a>
+<a href="Astrbot配置教程.md" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot配置教程</a>
 
 <a href="" style="color: blue; text-decoration: none; font-weight: bold;">NapCat配置教程</a>
 
