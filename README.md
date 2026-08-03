@@ -63,7 +63,7 @@
 
 然后为了登录到你的AstrBot和NapCat，你需要
 
-**AstrBot**：默认用户名为 astrbot，初始密码会在首次启动时自动生成并显示在控制台中。访问<a href="http://127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>并将账号密码填入，然后登录。
+**AstrBot**：默认用户名为 astrbot，初始密码会在首次启动时自动生成并显示在控制台中。访问<a href="http://127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>并将账号密码填入，然后登录（配置教程有详细说明）。
 
 **NapCat**：在NapCat启动日志中看到形如 [info] [NapCat] [WebUi] WebUi User Panel Url: http://127.0.0.1:6099/webui?token=xxxxx 的 token 信息，复制代替xxxxx的字符并粘贴至<a href="http://127.0.0.1:6099" style="color: blue; text-decoration: none; font-weight: bold;">NapCat本地控制台</a> 的登录框中
 
