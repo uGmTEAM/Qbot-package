@@ -20,7 +20,7 @@
 
 # **如何在Linux Ubuntu打开安装脚本**
 
-## 首先，你需要一个装有Ubuntu系统的电脑
+首先，你需要一个装有Ubuntu系统的电脑
 
 <a href="https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso" style="color: blue; text-decoration: none; font-weight: bold;">下载Ubuntu镜像</a>
 
@@ -46,7 +46,7 @@
     
 就安装好啦！
 
-# **然后该干嘛**
+**然后该干嘛**
 
 既然已经安装好了所需要的东西，那么可以直接
 
@@ -64,6 +64,10 @@
 **AstrBot**：默认用户名为 astrbot，初始密码会在首次启动时自动生成并显示在控制台中。访问<a href="http://127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>并将账号密码填入，然后登录。
 
 **NapCat**：在NapCat启动日志中看到形如 [info] [NapCat] [WebUi] WebUi User Panel Url: http://127.0.0.1:6099/webui?token=xxxxx 的 token 信息，复制代替xxxxx的字符并粘贴至<a href="http://127.0.0.1:6099" style="color: blue; text-decoration: none; font-weight: bold;">NapCat本地控制台</a> 的登录框中
+
+<a href="" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot配置教程</a>
+
+<a href="" style="color: blue; text-decoration: none; font-weight: bold;">NapCat配置教程</a>
 
 ## **联系我们/交流/反馈问题**
 <!--
