@@ -24,7 +24,7 @@
 
 <a href="https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso" style="color: blue; text-decoration: none; font-weight: bold;">下载Ubuntu镜像</a>
 
-当然，也可以用VMWare虚拟机代替（不建议），<a href="" style="color: blue; text-decoration: none; font-weight: bold;">VMWare配置教程</a>。
+当然，也可以用VMWare虚拟机代替（不建议），<a href="" style="color: blue; text-decoration: none; font-weight: bold;">VMWare安装-配置教程</a>。
 
 然后
 
