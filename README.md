@@ -67,7 +67,7 @@
 
 <a href="Astrbot配置教程.md" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot配置教程</a>
 
-<a href="" style="color: blue; text-decoration: none; font-weight: bold;">NapCat配置教程</a>
+<a href="Napcat配置教程.md" style="color: blue; text-decoration: none; font-weight: bold;">NapCat配置教程</a>
 
 ## **联系我们/交流/反馈问题**
 <!--
