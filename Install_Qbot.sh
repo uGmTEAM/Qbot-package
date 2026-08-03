@@ -14,9 +14,7 @@ curl -L -o uv-x86_64-unknown-linux-gnu.tar.gz https://proxy.gitwarp.top/https://
 tar -xzf uv-x86_64-unknown-linux-gnu.tar.gz
 mv uv-x86_64-unknown-linux-gnu/uv /usr/local/bin/
 chmod +x /usr/local/bin/uv
-curl -LsSf https://docs.astrbot.app/install.sh | bash
-export PATH="/root/.local/bin:$PATH"
-echo 'export PATH="/root/.local/bin:$PATH"' >> /root/.bashrc
+pipx install astrbot
 curl -o napcat.sh https://raw.githubusercontent.com/NapNeko/napcat-linux-installer/refs/heads/main/install.sh && bash napcat.sh
 gnome-terminal -- bash -c "gtk-launch qq" 
 astrbot init -y
