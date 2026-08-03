@@ -17,11 +17,9 @@
 
 其中"astrbot"是你的用户名，*****（执行时生成）是你的密码
 
-然后请访问<a href="127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>
+然后请访问<a href="127.0.0.1:6185" style="color: blue; text-decoration: none; font-weight: bold;">Astrbot本地控制台</a>进行登录
 
-登录
-
-登陆之后会要求修改密码和用户名（可选）。请妥善保管新的账号密码，以免丢失。如果控制台对外网开放，请务必设置强密码并防止泄露。
+登录之后会要求修改密码和用户名（可选）。请妥善保管新的账号密码，以免丢失。如果控制台对外网开放，请务必设置强密码并防止泄露。
 
 ## 配置
 
