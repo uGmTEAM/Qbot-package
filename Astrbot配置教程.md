@@ -27,7 +27,7 @@
 
 ### 配置 AI 模型
 
-如果你没有AI模型，参考<a href="" style="color: blue; text-decoration: none; font-weight: bold;">获取AI模型</a>
+如果你没有AI模型，参考<a href="获取AI模型.md" style="color: blue; text-decoration: none; font-weight: bold;">获取AI模型</a>
 
 点击 “配置 AI 模型” 下的 “去配置” ，在提供商源处点击 “+ 新增” ，然后选择自己使用的提供商。如果列表未显示使用的商源，请阅读开发商文档或者参考<a href="" style="color: blue; text-decoration: none; font-weight: bold;">列表中未显示的商源配置方法</a>。
 
