@@ -1,5 +1,7 @@
 **我不会写也不想写Markdown，在这里就长话短说了**
 
+我是一个Github已经Markdown小白，如有问题请指出
+
 这是一个Qbot（QQAI聊天机器人）的安装脚本，包含了以下程序，旨在帮助~~我的粉丝群里的傻子们~~不是很会用linux系统的人快速安装并运行Qbot。
 
 ·AstrBot（https://github.com/AstrBotDevs/AstrBot ）
